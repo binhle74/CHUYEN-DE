@@ -9,3 +9,18 @@ C:\Users\BinhHoc\documents\visual studio 2010\Projects\CHUYENDE\CHUYENDE\obj\x86
 C:\Users\BinhHoc\documents\visual studio 2010\Projects\CHUYENDE\CHUYENDE\obj\x86\Debug\CHUYENDE.CheckRole.resources
 C:\Users\BinhHoc\documents\visual studio 2010\Projects\CHUYENDE\CHUYENDE\obj\x86\Debug\CHUYENDE.csprojResolveAssemblyReference.cache
 C:\Users\BinhHoc\documents\visual studio 2010\Projects\CHUYENDE\CHUYENDE\obj\x86\Debug\CHUYENDE.themlop.resources
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.exe
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.pdb
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\bin\Debug\CHUYENDE.exe
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\bin\Debug\CHUYENDE.pdb
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.F_AddSV.resources
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.CheckRole.resources
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.login.resources
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.themlop.resources
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.DiemSV.resources
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.In.resources
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.Monhoc.resources
+C:\Users\Administrator\Desktop\CHUYEN-DE-master\CHUYENDE\obj\x86\Debug\CHUYENDE.Nhapdiem.resources

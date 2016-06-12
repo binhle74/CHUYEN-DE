@@ -27,7 +27,7 @@ namespace CHUYENDE
         public static String servername = "";
         public static String username;
         public static String password;
-        public static String database = "QL_SINHVIEN";
+        public static String database = "QLDSV";
         public static String mLogin;
         public static String mGroup;
         public static String mHoten;
@@ -45,7 +45,7 @@ namespace CHUYENDE
                 return 1;
             }
             catch (Exception ex) {
-                MessageBox.Show("please check username and passord ", "", MessageBoxButtons.OK);
+                MessageBox.Show("please check username and password ", "", MessageBoxButtons.OK);
                 return 0;
             }
         }
@@ -65,7 +65,7 @@ namespace CHUYENDE
                 return myreader;
             }
             catch (Exception ex) {
-                MessageBox.Show("error access database QL_SINHVIEN " + ex.Message);
+                MessageBox.Show("error access database QLDSV " + ex.Message);
 
                 Program.conn.Close();
                 return null;
